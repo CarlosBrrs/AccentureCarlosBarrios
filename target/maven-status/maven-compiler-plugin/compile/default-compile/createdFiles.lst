@@ -1,0 +1,8 @@
+com\accenture\pruebaBackend\FacturaController.class
+com\accenture\pruebaBackend\domain\Factura.class
+com\accenture\pruebaBackend\service\FacturaService.class
+com\accenture\pruebaBackend\PruebaBackendApplication.class
+com\accenture\pruebaBackend\service\FacturaSerciceImpl.class
+com\accenture\pruebaBackend\domain\response\FacturaResponseAdd.class
+com\accenture\pruebaBackend\domain\response\FacturaResponseUpd.class
+com\accenture\pruebaBackend\dao\FacturaRepository.class
